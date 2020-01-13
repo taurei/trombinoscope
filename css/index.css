@@ -1,0 +1,47 @@
+.image{
+        background-image: url('/image/marcheregimentaire.jpg');
+        height: 100vh;
+        width: 100%;
+        margin: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+h1  
+    { 
+        color:black;
+        padding-top: 4em;
+        text-align: center;
+        font-family: 'Permanent Marker';
+        font-size: 80px;
+    }
+
+h2  
+    {
+        color: black;
+        text-align: center;
+        font-family: 'Permanent Marker';
+        font-size: 50px;
+
+    }
+
+.titre
+    
+    {
+        color: black;
+        text-align: center;
+        font-family: 'Permanent Marker';
+        font-size: 50px;
+    }
+
+.voir
+    {
+        background-image: url('/image/marcheregimentaire.jpg');
+        height: 220vh;
+        width: 100%;
+        margin: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
